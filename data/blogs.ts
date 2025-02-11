@@ -7,7 +7,7 @@ const blogData = {
       title: "How to Create a Seamless Mobile Experience",
       shortDescription:
         "A great mobile experience can significantly enhance user satisfaction, increase engagement, and boost your app's success. Here’s a comprehensive guide to help you create a seamless mobile experience for your users.",
-      bannerImage: "/assets/imgs/blog/blog-1/img-background.png",
+      bannerImage: "assets/imgs/blog/blog-1/img-background.png",
       contentSections: [
         {
           heading: "Prioritize User-Centric Design",
@@ -50,9 +50,9 @@ const blogData = {
         }
       ],
       images: [
-        "/assets/imgs/blog/blog-1/img-10.png",
-        "/assets/imgs/blog/blog-1/img-11.png",
-        "/assets/imgs/blog/blog-1/img-12.png"
+        "assets/imgs/blog/blog-1/img-10.png",
+        "assets/imgs/blog/blog-1/img-11.png",
+        "assets/imgs/blog/blog-1/img-12.png"
       ],
       readingTime: "16 mins to read",
       date: "Nov 21, 2024",
@@ -71,7 +71,7 @@ const blogData = {
       title: "How to Create a Seamless Mobile Experience",
       shortDescription:
         "A great mobile experience can significantly enhance user satisfaction, increase engagement, and boost your app's success. Here’s a comprehensive guide to help you create a seamless mobile experience for your users.",
-      bannerImage: "/assets/imgs/blog/blog-1/img-background.png",
+      bannerImage: "assets/imgs/blog/blog-1/img-background.png",
       contentSections: [
         {
           heading: "Prioritize User-Centric Design",
@@ -114,9 +114,9 @@ const blogData = {
         }
       ],
       images: [
-        "/assets/imgs/blog/blog-1/img-10.png",
-        "/assets/imgs/blog/blog-1/img-11.png",
-        "/assets/imgs/blog/blog-1/img-12.png"
+        "assets/imgs/blog/blog-1/img-10.png",
+        "assets/imgs/blog/blog-1/img-11.png",
+        "assets/imgs/blog/blog-1/img-12.png"
       ],
       readingTime: "16 mins to read",
       date: "Nov 21, 2024",
@@ -134,7 +134,7 @@ const blogData = {
       title: "How to Create a Seamless Mobile Experience",
       shortDescription:
         "A great mobile experience can significantly enhance user satisfaction, increase engagement, and boost your app's success. Here’s a comprehensive guide to help you create a seamless mobile experience for your users.",
-      bannerImage: "/assets/imgs/blog/blog-1/img-background.png",
+      bannerImage: "assets/imgs/blog/blog-1/img-background.png",
       contentSections: [
         {
           heading: "Prioritize User-Centric Design",
@@ -177,9 +177,9 @@ const blogData = {
         }
       ],
       images: [
-        "/assets/imgs/blog/blog-1/img-10.png",
-        "/assets/imgs/blog/blog-1/img-11.png",
-        "/assets/imgs/blog/blog-1/img-12.png"
+        "assets/imgs/blog/blog-1/img-10.png",
+        "assets/imgs/blog/blog-1/img-11.png",
+        "assets/imgs/blog/blog-1/img-12.png"
       ],
       readingTime: "16 mins to read",
       date: "Nov 21, 2024",
@@ -197,7 +197,7 @@ const blogData = {
       title: "How to Create a Seamless Mobile Experience",
       shortDescription:
         "A great mobile experience can significantly enhance user satisfaction, increase engagement, and boost your app's success. Here’s a comprehensive guide to help you create a seamless mobile experience for your users.",
-      bannerImage: "/assets/imgs/blog/blog-1/img-background.png",
+      bannerImage: "assets/imgs/blog/blog-1/img-background.png",
       contentSections: [
         {
           heading: "Prioritize User-Centric Design",
@@ -240,9 +240,9 @@ const blogData = {
         }
       ],
       images: [
-        "/assets/imgs/blog/blog-1/img-10.png",
-        "/assets/imgs/blog/blog-1/img-11.png",
-        "/assets/imgs/blog/blog-1/img-12.png"
+        "assets/imgs/blog/blog-1/img-10.png",
+        "assets/imgs/blog/blog-1/img-11.png",
+        "assets/imgs/blog/blog-1/img-12.png"
       ],
       readingTime: "16 mins to read",
       date: "Nov 21, 2024",
