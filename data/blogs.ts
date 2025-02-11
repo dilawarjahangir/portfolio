@@ -7,7 +7,7 @@ const blogData = {
       title: "DeepDive into DeepSeek: Revolutionizing Search with AI",
       shortDescription:
         "Explore how DeepSeek is reshaping the way we search for information by leveraging cutting-edge artificial intelligence and deep learning algorithms.",
-      bannerImage: "assets/imgs/blogs/deepseek/banner.png",
+        bannerImage: "/assets/imgs/blogs/deepseek/banner.png",
       contentSections: [
         {
           heading: "Introduction to DeepSeek",
@@ -33,13 +33,13 @@ const blogData = {
         }
       ],
       images: [
-        "assets/imgs/blogs/deepseek/img1.png",
-        "assets/imgs/blogs/deepseek/img2.png",
-        "assets/imgs/blogs/deepseek/img3.png"
+        "/assets/imgs/blogs/deepseek/img1.png",
+        "/assets/imgs/blogs/deepseek/img2.png",
+        "/assets/imgs/blogs/deepseek/img3.png"
       ],
       readingTime: "12 mins to read",
       date: "Feb 11, 2025",
-      author: "Alonso",
+      author: "Dilawar Jahangir",
       socialLinks: {
         facebook: "/#",
         twitter: "/#",
@@ -54,7 +54,7 @@ const blogData = {
       title: "Mastering Development in Next.js: A Comprehensive Guide",
       shortDescription:
         "Next.js is transforming the way we build web applications. Discover its core features, best practices, and advanced techniques to build scalable and SEO-friendly sites.",
-      bannerImage: "assets/imgs/blogs/nextjs/banner.png",
+      bannerImage: "/assets/imgs/blogs/nextjs/banner.png",
       contentSections: [
         {
           heading: "Why Next.js?",
@@ -84,13 +84,13 @@ const blogData = {
         }
       ],
       images: [
-        "assets/imgs/blogs/nextjs/img1.png",
-        "assets/imgs/blogs/nextjs/img2.png",
-        "assets/imgs/blogs/nextjs/img3.png"
+        "/assets/imgs/blogs/nextjs/img1.png",
+        "/assets/imgs/blogs/nextjs/img2.png",
+        "/assets/imgs/blogs/nextjs/img3.png"
       ],
       readingTime: "18 mins to read",
       date: "Feb 10, 2025",
-      author: "Alonso",
+      author: "Dilawar Jahangir",
       socialLinks: {
         facebook: "/#",
         twitter: "/#",
@@ -105,7 +105,7 @@ const blogData = {
       title: "The Evolution of AI: From Reactive Machines to Self-Aware Systems",
       shortDescription:
         "Trace the incredible journey of artificial intelligence from its early days to the cutting-edge developments that are shaping our future.",
-      bannerImage: "assets/imgs/blogs/ai/banner.png",
+      bannerImage: "/assets/imgs/blogs/ai/banner.png",
       contentSections: [
         {
           heading: "A Brief History of AI",
@@ -131,13 +131,13 @@ const blogData = {
         }
       ],
       images: [
-        "assets/imgs/blogs/ai/img1.png",
-        "assets/imgs/blogs/ai/img2.png",
-        "assets/imgs/blogs/ai/img3.png"
+        "/assets/imgs/blogs/ai/img1.png",
+        "/assets/imgs/blogs/ai/img2.png",
+        "/assets/imgs/blogs/ai/img3.png"
       ],
       readingTime: "15 mins to read",
       date: "Feb 09, 2025",
-      author: "Alonso",
+      author: "Dilawar Jahangir",
       socialLinks: {
         facebook: "/#",
         twitter: "/#",
@@ -152,7 +152,7 @@ const blogData = {
       title: "Understanding Microservices Architecture: Building Scalable Systems",
       shortDescription:
         "Microservices architecture breaks down monolithic applications into smaller, manageable services. Learn how this design approach enhances scalability and streamlines development.",
-      bannerImage: "assets/imgs/blogs/microservices/banner.jpg",
+      bannerImage: "/assets/imgs/blogs/microservices/banner.jpg",
       contentSections: [
         {
           heading: "What Are Microservices?",
@@ -177,13 +177,13 @@ const blogData = {
         }
       ],
       images: [
-        "assets/imgs/blogs/microservices/img1.png",
-        "assets/imgs/blogs/microservices/img2.png",
-        "assets/imgs/blogs/microservices/img3.png"
+        "/assets/imgs/blogs/microservices/img1.png",
+        "/assets/imgs/blogs/microservices/img2.png",
+        "/assets/imgs/blogs/microservices/img3.png"
       ],
       readingTime: "14 mins to read",
       date: "Feb 08, 2025",
-      author: "Alonso",
+      author: "Dilawar Jahangir",
       socialLinks: {
         facebook: "/#",
         twitter: "/#",
@@ -198,7 +198,7 @@ const blogData = {
       title: "Navigating the Future of Cloud Computing: Trends and Innovations",
       shortDescription:
         "Cloud computing continues to evolve with new technologies and strategies. This post examines the latest trends, from hybrid cloud models to AI-driven cloud management, that are redefining the industry.",
-      bannerImage: "assets/imgs/blogs/cloud/banner.jpg",
+      bannerImage: "/assets/imgs/blogs/cloud/banner.jpg",
       contentSections: [
         {
           heading: "The Rise of Cloud Computing",
@@ -223,13 +223,13 @@ const blogData = {
         }
       ],
       images: [
-        "assets/imgs/blogs/cloud/img1.png",
-        "assets/imgs/blogs/cloud/img2.png",
-        "assets/imgs/blogs/cloud/img3.png"
+        "/assets/imgs/blogs/cloud/img1.png",
+        "/assets/imgs/blogs/cloud/img2.png",
+        "/assets/imgs/blogs/cloud/img3.png"
       ],
       readingTime: "17 mins to read",
       date: "Feb 07, 2025",
-      author: "Alonso",
+      author: "Dilawar Jahangir",
       socialLinks: {
         facebook: "/#",
         twitter: "/#",
@@ -244,7 +244,7 @@ const blogData = {
       title: "Quantum Computing: Unleashing the Power of the Future",
       shortDescription:
         "Quantum computing promises to solve problems intractable for classical computers. This in-depth analysis explores its principles, potential applications, and the challenges that lie ahead.",
-      bannerImage: "assets/imgs/blogs/quantum/banner.jpg",
+      bannerImage: "/assets/imgs/blogs/quantum/banner.jpg",
       contentSections: [
         {
           heading: "Introduction to Quantum Computing",
@@ -269,13 +269,13 @@ const blogData = {
         }
       ],
       images: [
-        "assets/imgs/blogs/quantum/img1.png",
-        "assets/imgs/blogs/quantum/img2.png",
-        "assets/imgs/blogs/quantum/img3.png"
+        "/assets/imgs/blogs/quantum/img1.png",
+        "/assets/imgs/blogs/quantum/img2.png",
+        "/assets/imgs/blogs/quantum/img3.png"
       ],
       readingTime: "20 mins to read",
       date: "Feb 06, 2025",
-      author: "Alonso",
+      author: "Dilawar Jahangir",
       socialLinks: {
         facebook: "/#",
         twitter: "/#",
